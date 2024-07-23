@@ -49,6 +49,6 @@ npm run test
 
 Anyone can contribute to this project, feel free to open a pull request!
 
-## Licence
+## License
 
 DVD Price Calculator is available under the [MIT license](https://opensource.org/licenses/MIT).
