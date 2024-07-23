@@ -1,4 +1,4 @@
-import { BTTF_MOVIES_PRICE, OTHER_MOVIES_PRICE, BTTF_TITLES, BTTF_TITLES_MAPPING } from './constants';
+import { BTTF_MOVIES_PRICE, OTHER_MOVIES_PRICE, BTTF_TITLES, BTTF_TITLES_MAPPING } from './constants.js';
 
 export const calculateTotalPrice = movies => {
   const moviesCount = {

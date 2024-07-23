@@ -24,6 +24,6 @@ export const getMoviesFromFilePath = () => {
   }
 };
 
-const sanitizeString = string => {
+export const sanitizeString = string => {
   return string.toLowerCase().trim().replace(/\s+/g, ' ');
 };
